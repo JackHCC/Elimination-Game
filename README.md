@@ -1,2 +1,3 @@
-# EliminationGame
-消消乐记分小游戏
+# 消消乐记分小游戏GUI界面
+### 
+
