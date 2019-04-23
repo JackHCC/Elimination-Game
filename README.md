@@ -108,7 +108,8 @@ def isMatch(self):
 ```
 def swapGem(self, gem1_pos, gem2_pos):
 ```
-3. 主函数Main配置;
+3. 主函数Main配置：
+
 1） 导入库
 ```
 import os
@@ -187,8 +188,10 @@ game = gemGame(screen, sounds, font, gem_imgs)
 		game.reset()
 ```
 
-+ 主程序；
++ 主程序：
 ```
 if __name__ == '__main__':
 	main()
 ```
+### 运行结果图
+
