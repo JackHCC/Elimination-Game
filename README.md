@@ -18,6 +18,7 @@ ROOTDIR = os.getcwd()
 FPS = 30
 ```
 2. utils类与函数设置
+
 1） 导入库:time计时，random生成随机数，pygame跨平台Python模块主要用于游戏图形化界面生成以及音频播放，config自己定义的相关变量
 ```
 import time
