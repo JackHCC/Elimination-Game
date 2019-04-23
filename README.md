@@ -26,7 +26,7 @@ import random
 import pygame
 from config import *
 ```
-2） 定义拼图类
+2) 定义拼图类
 ```
 class gemSprite(pygame.sprite.Sprite):
 ```
